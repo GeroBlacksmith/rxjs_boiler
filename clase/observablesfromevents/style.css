@@ -1,0 +1,24 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+body{
+    padding: 15px;
+}
+hr{
+    margin-top:5px;
+    margin-bottom: 5px;
+}
+#btn{
+    background: none;
+    border-style: solid;
+    height: 35px;
+    width: 150px;
+}
+#input{
+    background: none;
+    border-style: none;
+    border-bottom: 2px solid limegreen;
+    height: 35px;
+    width: 150px;
+}
